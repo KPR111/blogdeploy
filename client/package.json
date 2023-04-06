@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main":"src/index.js",
   "private": true,
-  "proxy":"http://localhost:8000",
+  "proxy":"https://splendid-neckerchief-bat.cyclic.app",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
